@@ -1,0 +1,18 @@
+section .table-responsive{
+    margin-top: 5rem;
+}
+.sort-div{
+    display: flex;
+    justify-content: center;
+    margin-right: 5rem; 
+    margin-bottom: 1.5rem;
+  }
+  .sort-div label {
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+  select .option{
+    font-size: 1.5rem;
+    font-weight: 500;
+    width: 1rem;
+  }
